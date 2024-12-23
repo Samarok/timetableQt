@@ -1,0 +1,33 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.8.0
+  MainWindow.cpp
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x12c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x12e, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x12f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x130, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x133, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x136, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x13a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x13d, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x140, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x143, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x146, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x100, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x102, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x106, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x109, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x12d, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x130, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x134, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x13f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x142, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x145, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\Schedule.h(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x148, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.cpp(28,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\MainWindow.cpp(47,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  0 of 803 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TimetableQt.vcxproj -> C:\Samarok\Programming\C++\OOP\schedule\TimetableQt\x64\Release\TimetableQt.exe
